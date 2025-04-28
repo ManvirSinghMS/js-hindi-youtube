@@ -1,0 +1,4 @@
+console.log("Getting started with events in JavaScript")
+
+
+// all events in js run sequentially
